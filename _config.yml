@@ -1,2 +1,4 @@
 name: The Agilists Pvt Ltd
 markdown: kramdown
+
+theme: jekyll-theme-slate
